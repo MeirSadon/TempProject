@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\obj\Debug\TestForFlightManagmentProject.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\obj\Debug\TestForFlightManagmentProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\TestForFlightManagmentProject.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\TestForFlightManagmentProject.pdb
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\FlightManagementProject.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\FlightManagementProject.pdb
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\FlightManagementProject.dll.config
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\obj\Debug\TestForFlightManagmentProject.csproj.CopyComplete
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\obj\Debug\TestForFlightManagmentProject.dll
+C:\Users\Owner\source\repos\FlightManagementProject\TestForFlightManagmentProject\obj\Debug\TestForFlightManagmentProject.pdb
